@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "KEPALA KELUARGA"
+    },
+    {
+        "id": 2,
+        "name": "SUAMI"
+    },
+    {
+        "id": 3,
+        "name": "ISTRI"
+    },
+    {
+        "id": 4,
+        "name": "ANAK KANDUNG"
+    },
+    {
+        "id": 5,
+        "name": "ANAK TIRI"
+    },
+    {
+        "id": 6,
+        "name": "MENANTU"
+    },
+    {
+        "id": 7,
+        "name": "CUCU"
+    },
+    {
+        "id": 8,
+        "name": "ORANGTUA"
+    },
+    {
+        "id": 9,
+        "name": "MERTUA"
+    },
+    {
+        "id": 10,
+        "name": "FAMILI LAIN"
+    },
+    {
+        "id": 11,
+        "name": "PEMBANTU"
+    },
+    {
+        "id": 12,
+        "name": "LAINNYA"
+    }
+]

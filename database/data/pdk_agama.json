@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "ISLAM"
+    },
+    {
+        "id": 2,
+        "name": "KRISTEN"
+    },
+    {
+        "id": 3,
+        "name": "KATHOLIK"
+    },
+    {
+        "id": 4,
+        "name": "HINDU"
+    },
+    {
+        "id": 5,
+        "name": "BUDHA"
+    },
+    {
+        "id": 6,
+        "name": "KHONGHUCU"
+    },
+    {
+        "id": 7,
+        "name": "Kepercayaan Terhadap Tuhan YME / Lainnya"
+    }
+]

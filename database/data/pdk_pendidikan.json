@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "TIDAK / BELUM SEKOLAH"
+    },
+    {
+        "id": 2,
+        "name": "BELUM TAMAT SD/SEDERAJAT"
+    },
+    {
+        "id": 3,
+        "name": "TAMAT SD / SEDERAJAT"
+    },
+    {
+        "id": 4,
+        "name": "SLTP/SEDERAJAT"
+    },
+    {
+        "id": 5,
+        "name": "SLTA / SEDERAJAT"
+    },
+    {
+        "id": 6,
+        "name": "DIPLOMA I / II"
+    },
+    {
+        "id": 7,
+        "name": "AKADEMI/ DIPLOMA III/S. MUDA"
+    },
+    {
+        "id": 8,
+        "name": "DIPLOMA IV/ STRATA I"
+    },
+    {
+        "id": 9,
+        "name": "STRATA II"
+    },
+    {
+        "id": 10,
+        "name": "STRATA III"
+    }
+]

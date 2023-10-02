@@ -1,0 +1,238 @@
+@include('client.layout.header')
+
+<body>
+
+    <!-- loader -->
+    <div id="loader">
+        <div class="spinner-border text-primary" role="status"></div>
+    </div>
+    <!-- * loader -->
+
+    <!-- App Header -->
+    <div class="appHeader bg-primary text-light no-border">
+        <div class="left">
+            <a href="#" class="headerButton">
+                <ion-icon name="chevron-back-outline"></ion-icon>
+            </a>
+        </div>
+        <div class="pageTitle">Permohonan SK Bersih Diri</div>
+        <div class="right"></div>
+    </div>
+    <!-- * App Header -->
+
+    <!-- App Capsule -->
+    <div id="appCapsule" class="extra-header">
+        <div class="section mb-2 mt-2 full">
+            <div class="wide-block pt-2 pb-2">
+                <form action="app-components.html">
+                    <!-- Data Ayah -->
+                    <div class="form-group boxed" id="formayah1">
+                        <label for="formayah1">Data Ayah</label>
+                        <div class="input-wrapper">
+                            <label class="label" for="nik">Nama Ayah</label>
+                            <input type="text" class="form-control" id="nik" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div>
+                    <div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="name1">Tempat Lahir Ayah</label>
+                            <input type="text" class="form-control" id="name1" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div><div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="name1">Tanggal Lahir Ayah</label>
+                            <input type="text" class="form-control" id="name1" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div>
+                    <div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="name1">Kewarganegaraan Ayah</label>
+                            <input type="text" class="form-control text-muted" id="name1" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div>
+                    <div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="name1">Agama Ayah</label>
+                            <input type="text" class="form-control" id="name1" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div><div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="name1">Pekerjaan Ayah</label>
+                            <input type="text" class="form-control" id="name1" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div><div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="name1">Alamat Ayah</label>
+                            <input type="text" class="form-control" id="name1" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div>
+                    <!-- Data Ibu -->
+                    <div class="form-group boxed" id="formibu1">
+                        <label for="formibu1">Data Ibu</label>
+                        <div class="input-wrapper">
+                            <label class="label" for="nik">Nama Ibu</label>
+                            <input type="text" class="form-control" id="nik" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div>
+                    <div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="name1">Tempat Lahir Ibu</label>
+                            <input type="text" class="form-control" id="name1" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div><div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="name1">Tanggal Lahir Ibu</label>
+                            <input type="text" class="form-control" id="name1" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div>
+                    <div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="name1">Kewarganegaraan Ibu</label>
+                            <input type="text" class="form-control text-muted" id="name1" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div>
+                    <div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="name1">Agama Ibu</label>
+                            <input type="text" class="form-control" id="name1" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div><div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="name1">Pekerjaan Ibu</label>
+                            <input type="text" class="form-control" id="name1" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div><div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="name1">Alamat Ibu</label>
+                            <input type="text" class="form-control" id="name1" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div>
+                    <!-- Data Diri -->
+                    <div class="form-group boxed" id="formdiri1">
+                        <label for="formdiri1">Data Pemohon</label>
+                        <div class="input-wrapper">
+                            <label class="label" for="nik">Nama</label>
+                            <input type="text" class="form-control" id="nik" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div>
+                    <div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="name1">Tempat Lahir</label>
+                            <input type="text" class="form-control" id="name1" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div><div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="name1">Tanggal Lahir</label>
+                            <input type="text" class="form-control" id="name1" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div>
+                    <div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="name1">Kewarganegaraan</label>
+                            <input type="text" class="form-control text-muted" id="name1" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div>
+                    <div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="name1">Agama</label>
+                            <input type="text" class="form-control" id="name1" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div><div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="name1">Pekerjaan</label>
+                            <input type="text" class="form-control" id="name1" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div><div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="name1">Alamat KTP</label>
+                            <input type="text" class="form-control" id="name1" disabled>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div>
+                    <!-- Keterangan Surat -->
+                    <div class="form-group boxed">
+                        <div class="input-wrapper">
+                            <label class="label" for="address5">Keterangan</label>
+                            <textarea id="address5" rows="3" class="form-control"></textarea>
+                            <i class="clear-input">
+                                <ion-icon name="close-circle"></ion-icon>
+                            </i>
+                        </div>
+                    </div>
+                    <div class="mt-2">
+                        <button type="submit" class="btn btn-primary btn-lg btn-block">Kirim</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- * App Capsule -->
+
+    {{-- Include layout footer disini --}}
+    @include('client.layout.footer');
+
+</body>
+
+</html>

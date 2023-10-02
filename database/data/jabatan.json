@@ -1,0 +1,42 @@
+[
+    {
+        "id": 2,
+        "name": "Administrator",
+        "guard_name": "admin"
+    },
+    {
+        "id": 3,
+        "name": "Wali Nagari",
+        "guard_name": "admin"
+    },
+    {
+        "id": 4,
+        "name": "Sektetaris",
+        "guard_name": "admin"
+    },
+    {
+        "id": 5,
+        "name": "Bendahara",
+        "guard_name": "admin"
+    },
+    {
+        "id": 6,
+        "name": "Kasi",
+        "guard_name": "admin"
+    },
+    {
+        "id": 7,
+        "name": "Kaur",
+        "guard_name": "admin"
+    },
+    {
+        "id": 8,
+        "name": "Wali Korong",
+        "guard_name": "admin"
+    },
+    {
+        "id": 9,
+        "name": "Staff",
+        "guard_name": "admin"
+    }
+]

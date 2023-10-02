@@ -1,0 +1,517 @@
+[
+    {
+        "id": 1305022001,
+        "district_id": 130502,
+        "name": "KATAPIANG"
+    },
+    {
+        "id": 1305022002,
+        "district_id": 130502,
+        "name": "KASANG"
+    },
+    {
+        "id": 1305022003,
+        "district_id": 130502,
+        "name": "SUNGAI BULUH"
+    },
+    {
+        "id": 1305022004,
+        "district_id": 130502,
+        "name": "BUAYAN LUBUK ALUNG"
+    },
+    {
+        "id": 1305022008,
+        "district_id": 130502,
+        "name": "SUNGAI BULUH SELATAN"
+    },
+    {
+        "id": 1305022006,
+        "district_id": 130502,
+        "name": "SUNGAI BULUH BARAT"
+    },
+    {
+        "id": 1305022005,
+        "district_id": 130502,
+        "name": "SUNGAI BULUH TIMUR"
+    },
+    {
+        "id": 1305022007,
+        "district_id": 130502,
+        "name": "SUNGAI BULUH UTARA"
+    },
+    {
+        "id": 1305012001,
+        "district_id": 130501,
+        "name": "LUBUK ALUNG"
+    },
+    {
+        "id": 1305012004,
+        "district_id": 130501,
+        "name": "AIE TAJUN LUBUK ALUNG"
+    },
+    {
+        "id": 1305012005,
+        "district_id": 130501,
+        "name": "SIKABU LUBUK ALUNG"
+    },
+    {
+        "id": 1305012003,
+        "district_id": 130501,
+        "name": "PASIE LAWEH LUBUK ALUNG"
+    },
+    {
+        "id": 1305012002,
+        "district_id": 130501,
+        "name": "PUNGGUNG KASIAK LUBUK ALUNG"
+    },
+    {
+        "id": 1305012009,
+        "district_id": 130501,
+        "name": "BALAH HILIA LUBUK ALUNG"
+    },
+    {
+        "id": 1305012006,
+        "district_id": 130501,
+        "name": "SUNGAI ABANG LUBUK ALUNG"
+    },
+    {
+        "id": 1305012007,
+        "district_id": 130501,
+        "name": "SINGGULING LUBUK ALUNG"
+    },
+    {
+        "id": 1305012008,
+        "district_id": 130501,
+        "name": "SALIBUTAN LUBUK ALUNG"
+    },
+    {
+        "id": 1305112002,
+        "district_id": 130511,
+        "name": "TOBOH GADANG"
+    },
+    {
+        "id": 1305112001,
+        "district_id": 130511,
+        "name": "SINTUK"
+    },
+    {
+        "id": 1305112004,
+        "district_id": 130511,
+        "name": "TOBOH GADANG BARAT"
+    },
+    {
+        "id": 1305112003,
+        "district_id": 130511,
+        "name": "TOBOH GADANG SELATAN"
+    },
+    {
+        "id": 1305112005,
+        "district_id": 130511,
+        "name": "TOBOH GADANG TIMUR"
+    },
+    {
+        "id": 1305102001,
+        "district_id": 130510,
+        "name": "TAPAKIS"
+    },
+    {
+        "id": 1305102002,
+        "district_id": 130510,
+        "name": "ULAKAN"
+    },
+    {
+        "id": 1305102005,
+        "district_id": 130510,
+        "name": "SEULAYAT ULAKAN"
+    },
+    {
+        "id": 1305102004,
+        "district_id": 130510,
+        "name": "SUNGAI GIMBA ULAKAN"
+    },
+    {
+        "id": 1305102006,
+        "district_id": 130510,
+        "name": "MANGGOPOH PALAK GADANG ULAKAN"
+    },
+    {
+        "id": 1305102007,
+        "district_id": 130510,
+        "name": "SANDI ULAKAN"
+    },
+    {
+        "id": 1305102008,
+        "district_id": 130510,
+        "name": "KAMPUANG GALAPUANG ULAKAN"
+    },
+    {
+        "id": 1305102003,
+        "district_id": 130510,
+        "name": "PADANG TOBOH ULAKAN"
+    },
+    {
+        "id": 1305032005,
+        "district_id": 130503,
+        "name": "SUNUA"
+    },
+    {
+        "id": 1305032003,
+        "district_id": 130503,
+        "name": "PADANG BINTUNGAN"
+    },
+    {
+        "id": 1305032002,
+        "district_id": 130503,
+        "name": "PAUAH KAMBA"
+    },
+    {
+        "id": 1305032001,
+        "district_id": 130503,
+        "name": "KAPALO KOTO"
+    },
+    {
+        "id": 1305032004,
+        "district_id": 130503,
+        "name": "KURAI TAJI"
+    },
+    {
+        "id": 1305032008,
+        "district_id": 130503,
+        "name": "SUNUR BARAT"
+    },
+    {
+        "id": 1305032007,
+        "district_id": 130503,
+        "name": "SUNUR TENGAH"
+    },
+    {
+        "id": 1305032006,
+        "district_id": 130503,
+        "name": "PADANG KANDANG PULAU AIR PADANG BINTUNGAN"
+    },
+    {
+        "id": 1305032009,
+        "district_id": 130503,
+        "name": "KURAI TAJI TIMUR"
+    },
+    {
+        "id": 1305042003,
+        "district_id": 130504,
+        "name": "LUBUK PANDAN"
+    },
+    {
+        "id": 1305042002,
+        "district_id": 130504,
+        "name": "SICINCIN"
+    },
+    {
+        "id": 1305042004,
+        "district_id": 130504,
+        "name": "SUNGAI ASAM"
+    },
+    {
+        "id": 1305172002,
+        "district_id": 130517,
+        "name": "KOTO TINGGI"
+    },
+    {
+        "id": 1305172005,
+        "district_id": 130517,
+        "name": "GADUA"
+    },
+    {
+        "id": 1305172003,
+        "district_id": 130517,
+        "name": "TOBOH KETEK"
+    },
+    {
+        "id": 1305172001,
+        "district_id": 130517,
+        "name": "PAKANDANGAN"
+    },
+    {
+        "id": 1305172004,
+        "district_id": 130517,
+        "name": "PARIK MALINTANG"
+    },
+    {
+        "id": 1305152004,
+        "district_id": 130515,
+        "name": "KAPALO HILALANG"
+    },
+    {
+        "id": 1305152001,
+        "district_id": 130515,
+        "name": "KAYU TANAM"
+    },
+    {
+        "id": 1305152002,
+        "district_id": 130515,
+        "name": "GUGUAK"
+    },
+    {
+        "id": 1305152003,
+        "district_id": 130515,
+        "name": "ANDURING"
+    },
+    {
+        "id": 1305052001,
+        "district_id": 130505,
+        "name": "BALAH AIA"
+    },
+    {
+        "id": 1305052004,
+        "district_id": 130505,
+        "name": "LAREH NAN PANJANG"
+    },
+    {
+        "id": 1305052003,
+        "district_id": 130505,
+        "name": "LURAH AMPALU"
+    },
+    {
+        "id": 1305052002,
+        "district_id": 130505,
+        "name": "SUNGAI SARIAK"
+    },
+    {
+        "id": 1305052012,
+        "district_id": 130505,
+        "name": "BALAH AIE TIMUR"
+    },
+    {
+        "id": 1305052011,
+        "district_id": 130505,
+        "name": "BALAH AIE UTARA"
+    },
+    {
+        "id": 1305052005,
+        "district_id": 130505,
+        "name": "LAREH NAN PANJANG SELATAN"
+    },
+    {
+        "id": 1305052006,
+        "district_id": 130505,
+        "name": "LAREH NAN PANJANG BARAT"
+    },
+    {
+        "id": 1305052010,
+        "district_id": 130505,
+        "name": "LIMPATO SUNGAI SARIAK"
+    },
+    {
+        "id": 1305052007,
+        "district_id": 130505,
+        "name": "BISATI SUNGAI SARIAK"
+    },
+    {
+        "id": 1305052009,
+        "district_id": 130505,
+        "name": "LAREH NAN PANJANG SUNGAI SARIAK"
+    },
+    {
+        "id": 1305052008,
+        "district_id": 130505,
+        "name": "AMBUANG KAPUA SUNGAI SARIAK"
+    },
+    {
+        "id": 1305162001,
+        "district_id": 130516,
+        "name": "SUNGAI DURIAN"
+    },
+    {
+        "id": 1305162002,
+        "district_id": 130516,
+        "name": "TANDIKEK"
+    },
+    {
+        "id": 1305162003,
+        "district_id": 130516,
+        "name": "TANDIKEK UTARA"
+    },
+    {
+        "id": 1305162006,
+        "district_id": 130516,
+        "name": "KAMPUANG TANJUANG KOTO MAMBANG SUNGAI DURIAN"
+    },
+    {
+        "id": 1305162004,
+        "district_id": 130516,
+        "name": "TANDIKEK SELATAN"
+    },
+    {
+        "id": 1305162005,
+        "district_id": 130516,
+        "name": "TANDIKEK BARAT"
+    },
+    {
+        "id": 1305122002,
+        "district_id": 130512,
+        "name": "KOTO DALAM"
+    },
+    {
+        "id": 1305122003,
+        "district_id": 130512,
+        "name": "BATU KALANG"
+    },
+    {
+        "id": 1305122001,
+        "district_id": 130512,
+        "name": "KOTO BARU"
+    },
+    {
+        "id": 1305122004,
+        "district_id": 130512,
+        "name": "KOTO DALAM BARAT"
+    },
+    {
+        "id": 1305122005,
+        "district_id": 130512,
+        "name": "KOTO DALAM SELATAN"
+    },
+    {
+        "id": 1305122006,
+        "district_id": 130512,
+        "name": "BATU KALANG UTARA"
+    },
+    {
+        "id": 1305062001,
+        "district_id": 130506,
+        "name": "CAMPAGO"
+    },
+    {
+        "id": 1305062002,
+        "district_id": 130506,
+        "name": "SIKUCUR"
+    },
+    {
+        "id": 1305062004,
+        "district_id": 130506,
+        "name": "CAMPAGO SELATAN"
+    },
+    {
+        "id": 1305062003,
+        "district_id": 130506,
+        "name": "CAMPAGO BARAT"
+    },
+    {
+        "id": 1305062007,
+        "district_id": 130506,
+        "name": "SIKUCUR TENGAH"
+    },
+    {
+        "id": 1305062008,
+        "district_id": 130506,
+        "name": "SIKUCUR BARAT"
+    },
+    {
+        "id": 1305062005,
+        "district_id": 130506,
+        "name": "SIKUCUR UTARA"
+    },
+    {
+        "id": 1305062006,
+        "district_id": 130506,
+        "name": "SIKUCUR TIMUR"
+    },
+    {
+        "id": 1305142002,
+        "district_id": 130514,
+        "name": "LIMAU PURUIK"
+    },
+    {
+        "id": 1305142001,
+        "district_id": 130514,
+        "name": "KUDU GANTIANG"
+    },
+    {
+        "id": 1305142003,
+        "district_id": 130514,
+        "name": "GUNUNG PADANG ALAI"
+    },
+    {
+        "id": 1305142004,
+        "district_id": 130514,
+        "name": "KUDU GANTIANG BARAT"
+    },
+    {
+        "id": 1305082002,
+        "district_id": 130508,
+        "name": "PILUBANG"
+    },
+    {
+        "id": 1305082001,
+        "district_id": 130508,
+        "name": "KURANJI HILIR"
+    },
+    {
+        "id": 1305082004,
+        "district_id": 130508,
+        "name": "KOTO TINGGI KURANJI HILIR"
+    },
+    {
+        "id": 1305082003,
+        "district_id": 130508,
+        "name": "GUGUAK KURANJI HILIR"
+    },
+    {
+        "id": 1305132002,
+        "district_id": 130513,
+        "name": "GASAN GADANG"
+    },
+    {
+        "id": 1305132001,
+        "district_id": 130513,
+        "name": "MALAI V SUKU"
+    },
+    {
+        "id": 1305132003,
+        "district_id": 130513,
+        "name": "MALAI V SUKU TIMUR"
+    },
+    {
+        "id": 1305072001,
+        "district_id": 130507,
+        "name": "KURANJI HULU"
+    },
+    {
+        "id": 1305072002,
+        "district_id": 130507,
+        "name": "MALAI III KOTO"
+    },
+    {
+        "id": 1305072003,
+        "district_id": 130507,
+        "name": "BATU GADANG KURANJI HULU"
+    },
+    {
+        "id": 1305072004,
+        "district_id": 130507,
+        "name": "SUNGAI SIRAH KURANJI HULU"
+    },
+    {
+        "id": 1305092001,
+        "district_id": 130509,
+        "name": "III KOTO AUR MALINTANG"
+    },
+    {
+        "id": 1305092004,
+        "district_id": 130509,
+        "name": "III KOTO AUR MALINTANG SELATAN"
+    },
+    {
+        "id": 1305092003,
+        "district_id": 130509,
+        "name": "III KOTO AUR MALINTANG TIMUR"
+    },
+    {
+        "id": 1305092002,
+        "district_id": 130509,
+        "name": "III KOTO AUR MALINTANG UTARA"
+    },
+    {
+        "id": 1305092005,
+        "district_id": 130509,
+        "name": "BALAI BAIK MALAI III KOTO"
+    }
+]

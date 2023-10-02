@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Surat Pengantar RT/RW"
+    },
+    {
+        "id": 2,
+        "name": "Fotokopi KK"
+    },
+    {
+        "id": 3,
+        "name": "Fotokopi KTP"
+    },
+    {
+        "id": 4,
+        "name": "Fotokopi Surat Nikah/Akta Nikah/Kutipan Akta Perkawinan"
+    },
+    {
+        "id": 5,
+        "name": "Fotokopi Akta Kelahiran/Surat Kelahiran bagi keluarga yang mempunyai anak"
+    },
+    {
+        "id": 6,
+        "name": "Surat Pindah Datang dari tempat asal"
+    },
+    {
+        "id": 7,
+        "name": "Surat Keterangan Kematian dari Rumah Sakit, Rumah Bersalin Puskesmas, atau visum Dokter"
+    },
+    {
+        "id": 8,
+        "name": "Surat Keterangan Cerai"
+    },
+    {
+        "id": 9,
+        "name": "Fotokopi Ijasah Terakhir"
+    },
+    {
+        "id": 10,
+        "name": "SK. PNS/KARIP/SK. TNI – POLRI"
+    },
+    {
+        "id": 11,
+        "name": "Surat Keterangan Kematian dari Kepala Desa/Kelurahan"
+    },
+    {
+        "id": 12,
+        "name": "Surat imigrasi / STMD (Surat Tanda Melapor Diri)"
+    }
+]

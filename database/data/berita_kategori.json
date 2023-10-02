@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Pengumuman",
+        "slug": "pengumuman"
+    },
+    {
+        "id": 2,
+        "name": "Event",
+        "slug": "event"
+    },
+    {
+        "id": 3,
+        "name": "Pemerintahan",
+        "slug": "pemerintahan"
+    }
+]
